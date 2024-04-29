@@ -1,1 +1,1 @@
-# python3
+# student-management-system
